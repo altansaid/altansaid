@@ -32,14 +32,14 @@
 
 ## 🚀 Featured Projects  
 
-- [**Interview Coach AI**](https://github.com/...)  
-  *AI-powered interview preparation platform built with MERN stack, JWT auth, and WebSockets.*  
+- [**PLAB 2 Practice Platform**](https://github.com/altansaid/plab2projectnew)  
+  *Roleplay platform enabling UK doctor candidates to practice real exam scenarios in real-time.*  
+  🔗 [Live Demo](https://www.plab2practice.com)  
 
-- [**PLAB 2 Practice Platform**](https://github.com/...)  
-  *Real-time roleplay system for medical exam candidates with doctor/patient roles.*  
+- [**Interview Coach AI**](https://github.com/altansaid/interviewcoach-ai)  
+  *AI-powered interview preparation app that generates targeted questions based on user input without repetitive prompts.*  
+  🔗 [Live Demo](https://interviewcoach-ai.vercel.app/)  
 
-- [**GeekGoose Blog**](https://github.com/...)  
-  *Blog platform built with Laravel & Livewire featuring authentication, comments, and likes.*  
 
 ---
 
