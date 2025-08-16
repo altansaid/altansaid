@@ -46,12 +46,10 @@
 
 
 ---
-https://github-readme-stats.vercel.app/api/top-langs/?username=altansaid
-
 
 ### 📈 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altansaid&layout=compact&theme=radical)  
-
+![Said's GitHub stats](https://github-readme-stats.vercel.app/api?username=altansaid&show_icons=true&theme=default)  
 ---
 ## 📫 Reach Me At  
 🌐 [saidaltan.com](https://saidaltan.com)  
