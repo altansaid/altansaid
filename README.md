@@ -34,21 +34,10 @@ Currently, I'm exploring **TypeScript** and **Cloud Platforms (AWS & GCP)** to e
 
 ---
 
-## 📊 GitHub Stats  
-![Said's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidaltan&show_icons=true&theme=radical)  
-
 ### 📈 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saidaltan&layout=compact&theme=radical)  
 
 ---
-
-## 🌱 Currently Learning  
-- TypeScript  
-- Cloud (AWS & GCP)  
-- Advanced Spring Boot  
-
----
-
 ## 📫 Reach Me At  
 🌐 [saidaltan.com](https://saidaltan.com)  
 💼 [LinkedIn](https://linkedin.com/in/saidaltan)  
