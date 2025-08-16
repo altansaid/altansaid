@@ -4,10 +4,7 @@
 ☕️ Home Barista  👉🏻 instagram.com/brewsyde
 🛠️ Currently building a real-time roleplay platform that helps users practice realistic scenarios.  
 🚀 Passionate about learning new technologies in software development and creating meaningful projects with them.  
- 
-🌐 [saidaltan.com](https://saidaltan.com)  
-💼 [LinkedIn](https://linkedin.com/in/altansaid)  
-📧 altansaid13@gmail.com 
+
 ---
 
 ## 🛠️ Technologies & Tools  
@@ -27,8 +24,6 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
 
 ---
 
@@ -50,7 +45,11 @@
 ---
 
 ### 📈 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altansaid&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altansaid&layout=compact&theme=radical) 
+
+---
+## 📫 Reach Me At  
+📧 altansaid13@gmail.com  
 
 
 
