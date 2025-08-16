@@ -34,11 +34,15 @@
 
 - [**PLAB 2 Practice Platform**](https://github.com/altansaid/plab2projectnew)  
   *Roleplay platform enabling UK doctor candidates to practice real exam scenarios in real-time.*  
-  🔗 [Live Demo](https://www.plab2practice.com)  
+  <a href="https://www.plab2practice.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Live_Demo-Visit-blue?style=for-the-badge" />
+  </a>  
 
 - [**Interview Coach AI**](https://github.com/altansaid/interviewcoach-ai)  
   *AI-powered interview preparation app that generates targeted questions based on user input without repetitive prompts.*  
-  🔗 [Live Demo](https://interviewcoach-ai.vercel.app/)  
+  <a href="https://interviewcoach-ai.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Live_Demo-Visit-green?style=for-the-badge" />
+  </a>  
 
 
 ---
