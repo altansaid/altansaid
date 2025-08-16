@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Said Altan  
 
 💻 Software Developer  
-🔍 Actively seeking new opportunities while also managing a coffee-inspired Instagram account as a home barista.  
+☕️ Home Barista  👉🏻 instagram.com/brewsyde
 🛠️ Currently building a real-time roleplay platform that helps users practice realistic scenarios.  
 🚀 Passionate about learning new technologies in software development and creating meaningful projects with them.  
 
@@ -58,7 +58,7 @@
 
 ---
 
-✨ Fun fact: I love ☕ coffee, building side projects, and learning new technologies every day.  
+
 
 
 <!--
