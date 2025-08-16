@@ -53,7 +53,7 @@
 ---
 ## 📫 Reach Me At  
 🌐 [saidaltan.com](https://saidaltan.com)  
-💼 [LinkedIn]([https://linkedin.com/in/saidaltan](https://www.linkedin.com/in/altansaid/))  
+💼 [[LinkedIn]([https://linkedin.com/in/saidaltan](https://www.linkedin.com/in/altansaid/))  ](https://www.linkedin.com/in/altansaid/)
 📧 altansaid13@gmail.com  
 
 ---
