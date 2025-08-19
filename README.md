@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Said Altan  
 
 💻 Software Developer  
-☕️ Home Barista  👉🏻 instagram.com/brewsyde
-🛠️ Currently building a real-time roleplay platform that helps users practice realistic scenarios.  
-🚀 Passionate about learning new technologies in software development and creating meaningful projects with them.  
+☕️ Home Barista  👉🏻 instagram.com/brewsyde  
+🛠️ Currently building a real-time roleplay platform that helps users practice realistic scenarios. 
+🚀 Passionate about learning new technologies in software development and creating meaningful projects with them.
+ 
+  
 
 ---
 
