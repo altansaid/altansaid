@@ -2,8 +2,9 @@
 
 💻 Software Developer  
 ☕️ Home Barista  👉🏻 instagram.com/brewsyde  
-🛠️ Currently building a real-time roleplay platform that helps users practice realistic scenarios. 
+🛠️ Currently building a real-time roleplay platform that helps users practice realistic scenarios.   
 🚀 Passionate about learning new technologies in software development and creating meaningful projects with them.
+
  
   
 
