@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://linkedin.com/in/saidaltan" target="_blank">
+<a href="https://linkedin.com/in/altansaid" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Said%20Altan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -14,32 +14,27 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Enthusiast;Building+things+that+matter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Enthusiast;Open+to+Work" alt="Typing SVG" />
 
 </div>
 
 ---
 
-I build full-stack web apps with a lean toward backend systems and AI integration. Currently shipping [plab2practice.com](https://plab2practice.com) — a real-time roleplay platform for UK medical exam candidates — and exploring how LLMs can make software genuinely useful.
+I build fast, full-stack products — from real-time WebSocket platforms to native macOS apps.
+My stack lives in React, TypeScript, and Node.js. I think in components, optimize in milliseconds,
+and care about the gap between "it works" and "it works well."
 
-Based in Canada. Open to full-stack and AI/backend roles.
+Based in Ottawa, Canada. Open to full-stack and AI/backend roles.
 
 ---
 
 ## Projects
 
-**[plab2practice.com](https://plab2practice.com)** — Real-time roleplay platform for PLAB 2 exam candidates
-<br/>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**[QDock](https://qdock.saidaltan.com)** — macOS menu bar app that tracks AI coding quota in real time across Claude Code and Codex.
 
-**[QDock](https://github.com/altansaid/QDock)** — Native macOS menu bar app showing AI coding quota usage in real time
-<br/>
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-6366F1?style=flat-square&logo=anthropic&logoColor=white)
+**[PLAB2 Practice Platform](https://plab2practice.com)** — Real-time exam prep platform for 190+ active users, with synchronized sessions and voice/video.
+
+**[AI-Assisted Resume Builder](https://github.com/altansaid/resume-builder-saas)** — Multi-step resume builder with AI scoring, real-time preview, and version history.
 
 ---
 
