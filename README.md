@@ -1,74 +1,91 @@
-# 👋 Hi, I'm Said Altan  
+<div align="center">
 
-💻 Software Developer  
-☕️ Home Barista  👉🏻 instagram.com/brewsyde  
-🛠️ Currently building a real-time roleplay platform that helps users practice realistic scenarios.   
-🚀 Passionate about learning new technologies in software development and creating meaningful projects with them.
+<a href="https://linkedin.com/in/saidaltan" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Said%20Altan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://saidaltan.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-saidaltan.com-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="mailto:altansaid13@gmail.com">
+  <img src="https://img.shields.io/badge/Email-altansaid13@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
- 
-  
+<br/><br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%26+Backend+Enthusiast;Building+things+that+matter" alt="Typing SVG" />
 
-## 🛠️ Technologies & Tools  
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
+</div>
 
 ---
 
-## 🚀 Featured Projects  
+I build full-stack web apps with a lean toward backend systems and AI integration. Currently shipping [plab2practice.com](https://plab2practice.com) — a real-time roleplay platform for UK medical exam candidates — and exploring how LLMs can make software genuinely useful.
 
-- [**PLAB 2 Practice Platform**](https://github.com/altansaid/plab2projectnew)  
-  *Roleplay platform enabling UK doctor candidates to practice real exam scenarios in real-time.*  
-  <a href="https://www.plab2practice.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Live_Demo-Visit-blue?style=for-the-badge" />
-  </a>  
-
-- [**Interview Coach AI**](https://github.com/altansaid/interviewcoach-ai)  
-  *AI-powered interview preparation app that generates targeted questions based on user input without repetitive prompts.*  
-  <a href="https://interviewcoach-ai.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Live_Demo-Visit-green?style=for-the-badge" />
-  </a>  
-
+Based in Canada. Open to full-stack and AI/backend roles.
 
 ---
 
-### 📈 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altansaid&layout=compact&theme=radical) 
+## Tech Stack
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-## 📫 Reach Me At  
-📧 altansaid13@gmail.com  
 
+## Projects
 
+**[plab2practice.com](https://plab2practice.com)** — Real-time roleplay platform for PLAB 2 exam candidates
+<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+**[Interview Coach AI](https://interviewcoach-ai.vercel.app)** — AI-powered mock interview platform with real-time feedback
+<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-<!--
-**altansaid/altansaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=altansaid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altansaid&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=altansaid&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Also a home barista — ask me about pour-over ratios.</sub>
+</div>
