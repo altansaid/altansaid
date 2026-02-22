@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Full-Stack Developer &nbsp;·&nbsp; AI Enthusiast &nbsp;·&nbsp; Open to Work</h2>
+<h2>Full-Stack Developer &nbsp;·&nbsp; AI Enthusiast &nbsp;·&nbsp;</h2>
 
 <br/><br/>
 
