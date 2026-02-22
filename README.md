@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%26+Backend+Enthusiast;Building+things+that+matter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Enthusiast;Building+things+that+matter" alt="Typing SVG" />
 
 </div>
 
@@ -23,6 +23,23 @@
 I build full-stack web apps with a lean toward backend systems and AI integration. Currently shipping [plab2practice.com](https://plab2practice.com) — a real-time roleplay platform for UK medical exam candidates — and exploring how LLMs can make software genuinely useful.
 
 Based in Canada. Open to full-stack and AI/backend roles.
+
+---
+
+## Projects
+
+**[plab2practice.com](https://plab2practice.com)** — Real-time roleplay platform for PLAB 2 exam candidates
+<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**[QDock](https://github.com/altansaid/QDock)** — Native macOS menu bar app showing AI coding quota usage in real time
+<br/>
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-6366F1?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
@@ -53,32 +70,9 @@ Based in Canada. Open to full-stack and AI/backend roles.
 
 ---
 
-## Projects
-
-**[plab2practice.com](https://plab2practice.com)** — Real-time roleplay platform for PLAB 2 exam candidates
-<br/>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**[Interview Coach AI](https://interviewcoach-ai.vercel.app)** — AI-powered mock interview platform with real-time feedback
-<br/>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
----
-
 ## GitHub Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=altansaid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altansaid&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=altansaid&theme=tokyonight&hide_border=true" />
 
