@@ -30,11 +30,11 @@ I actively explore AI-driven development, building workflows and automation syst
 
 ## Projects
 
+**[Rolevanta](https://www.rolevanta.com/coming-soon)** - AI-orchestrated workflow that analyzes job descriptions, generates tailored resumes and cover letters, creates interview question sets, and tracks applications through a modular, stateful pipeline with scoring and version control.
+
 **[QDock](https://qdock.saidaltan.com)** — macOS menu bar app that tracks AI coding usage in real time across Claude Code and Codex, built to eliminate workflow friction and give instant visibility into token consumption during active development.
 
 **[PLAB2 Practice Platform](https://plab2practice.com)** — Real-time mock exam platform serving more than 200 users across the world, featuring synchronized sessions, role-based participation, and live voice/video interaction.
-
-**AI Career Platform - AI-orchestrated workflow that analyzes job descriptions, generates tailored resumes and cover letters, creates interview question sets, and tracks applications through a modular, stateful pipeline with scoring and version control.
 
 ---
 
