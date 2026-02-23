@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Portfolio-saidaltan.com-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
-<a href="mailto:altansaid13@gmail.com">
+<a href="mailto:altansaid13@outlook.com">
   <img src="https://img.shields.io/badge/Email-altansaid13@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
