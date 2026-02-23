@@ -30,9 +30,9 @@ I actively explore AI-driven development, building workflows and automation syst
 
 ## Projects
 
-**[QDock](https://qdock.saidaltan.com)** — macOS menu bar app that tracks AI coding quota in real time across Claude Code and Codex.
+**[QDock](https://qdock.saidaltan.com)** — macOS menu bar app that tracks AI coding usage in real time across Claude Code and Codex, built to eliminate workflow friction and give instant visibility into token consumption during active development.
 
-**[PLAB2 Practice Platform](https://plab2practice.com)** — Real-time exam prep platform for 190+ active users, with synchronized sessions and voice/video.
+**[PLAB2 Practice Platform](https://plab2practice.com)** — Real-time mock exam platform serving more than 200 users across the world, featuring synchronized sessions, role-based participation, and live voice/video interaction.
 
 **[AI-Assisted Resume Builder](https://github.com/altansaid/resume-builder-saas)** — Multi-step resume builder with AI scoring, real-time preview, and version history.
 
