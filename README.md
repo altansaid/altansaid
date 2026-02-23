@@ -2,7 +2,7 @@
 
 <h2>Full-Stack Developer &nbsp;·&nbsp; AI Enthusiast &nbsp;·&nbsp;</h2>
 
-<br/><br/>
+
 
 <a href="https://linkedin.com/in/altansaid" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Said%20Altan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
