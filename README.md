@@ -34,7 +34,7 @@ I actively explore AI-driven development, building workflows and automation syst
 
 **[PLAB2 Practice Platform](https://plab2practice.com)** — Real-time mock exam platform serving more than 200 users across the world, featuring synchronized sessions, role-based participation, and live voice/video interaction.
 
-**AI-orchestrated workflow that analyzes job descriptions, generates tailored resumes and cover letters, creates interview question sets, and tracks applications through a modular, stateful pipeline with scoring and version control.
+**AI Career Platform - AI-orchestrated workflow that analyzes job descriptions, generates tailored resumes and cover letters, creates interview question sets, and tracks applications through a modular, stateful pipeline with scoring and version control.
 
 ---
 
