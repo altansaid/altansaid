@@ -20,7 +20,11 @@
 
 ---
 
-I'm a full-stack developer who builds when I see something that could work better — and doesn't stop until it does. My stack spans React, TypeScript, Node.js, and FastAPI; I automate in n8n, integrate AI where it genuinely adds value, and ship tools I actually use myself. Two things I can't compromise on: whether something *works*, and whether it *flows*. Friction is a bug. Distraction is a bug. Based in Ottawa, Canada. Open to full-stack and AI/backend roles.
+Full-stack developer who builds and ships real products. I turn my own problems into working tools and push them to production.
+
+Currently developing <a href="https://arbitragecyclops.com/"> Arbitrage Cyclops</a>, an Amazon-focused product analysis platform that processes 10M+ product records to help sellers identify profitable opportunities. I contribute across the stack, shape new features, and focus on performance, scalability, and clean system design.
+
+I actively explore AI-driven development, building workflows and automation systems that improve speed, clarity, and execution. I use new technologies where they create real, measurable leverage.
 
 ---
 
