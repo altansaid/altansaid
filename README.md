@@ -34,7 +34,7 @@ I'm a full-stack developer who builds when I see something that could work bette
 
 ---
 
-## Open Source & Volunteer Work
+## Currently Working at 
 
 **[Arbitrage Cyclops](https://arbitragecyclops.com)** — Volunteer developer on a platform processing 10M+ product catalog entries — filtering, de-duping, and delivering clean data at scale.
 
