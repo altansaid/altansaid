@@ -68,7 +68,7 @@ I actively explore AI-driven development, building workflows and automation syst
 **AI & Automation**
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-Claude Code &nbsp;·&nbsp; Codex
+![Claude](https://img.shields.io/badge/Claude-Code-D97757?logo=claude&logoColor=white)
 
 ---
 
